@@ -323,9 +323,8 @@ letter-spacing: 0.02em;}
 display: flex;
 align-items: baseline;}
 
-.wish-container {display: block;
-margin-right: 120px;
-margin-left: 96px;}
+.wish-container {margin-right: 120px;
+padding-left: 126px;}
 
 .logo-footer{display: inline-block; margin-bottom: 16px;}
 
