@@ -236,7 +236,7 @@ letter-spacing: 0.02em;
 text-align: center;
 margin-bottom: 8px;}
 
-.socal-link {display: block;
+.socal-link {display: flex;
 justify-content: center;
 gap: 24px;}
 
